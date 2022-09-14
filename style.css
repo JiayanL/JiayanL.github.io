@@ -1,5 +1,26 @@
+@import url('http://fonts.cdnfonts.com/css/myriad-pro');
+
+* {
+    font-family: 'Myriad Pro', sans-serif;
+}
+
+h2 h3 {
+    line-height: 80%;
+}
+
 #content {
     border-color: "black";
     border-style: solid;
-    margin: 10vh;
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 500px;
+}
+
+contact-row {
+    color: grey;
+}
+
+a {
+    text-decoration: None;
+    color: grey;
 }
