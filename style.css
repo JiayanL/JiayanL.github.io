@@ -10,14 +10,26 @@ h3 {
     text-emphasis: 10px;
 }
 
+<<<<<<< HEAD
 li {
     line-height: 120%;
+=======
+
+#content {
+    border-color: "black";
+    border-style: solid;
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 500px;
+>>>>>>> bb1f8fb50a6a06a7b8e8d3d7101468f2d8861865
 }
+
 
 contact-row {
     color: rgb(239, 209, 209);
 }
 
+<<<<<<< HEAD
 /* Tablet, Laptops */
 @media only screen and (min-width: 600px) {
     #content {
@@ -35,3 +47,9 @@ contact-row {
         width: 100%;
     }
 }
+=======
+a {
+    text-decoration: None;
+    color: grey;
+}
+>>>>>>> bb1f8fb50a6a06a7b8e8d3d7101468f2d8861865
